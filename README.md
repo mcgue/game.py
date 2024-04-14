@@ -1,3 +1,3 @@
 # game.py
 Guess the Number Game<br>
-Status: mostly complete, but needs some additional edits
+Status: renamed to something else
